@@ -1,0 +1,64 @@
+{
+    "wallpapers": {
+        "category": [
+            {
+                "name": "Category Title",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/5azz6pna69frw64/wall_1.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/5azz6pna69frw64/wall_thumb_1.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/qklzkdeey9bn8wi/wall_2.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/qklzkdeey9bn8wi/wall_thumb_2.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/t6q8g68biq8651c/wall_3.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/t6q8g68biq8651c/wall_thumb_3.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/laa5npel5a5mil3/wall_4.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/laa5npel5a5mil3/wall_thumb_4.jpg",
+                        "name": "WP 4"
+                    }
+                ]
+            },
+            {
+                "name": "Category Title 2",
+                "wallpaper": [
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/uc6f6vr2usymks8/wall_5.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/uc6f6vr2usymks8/wall_thumb_5.jpg",
+                        "name": "WP 1"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/urr2j667yzgqa9v/wall_6.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/urr2j667yzgqa9v/wall_thumb_6.jpg",
+                        "name": "WP 2"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/yp990l04oslb5j9/wall_7.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/yp990l04oslb5j9/wall_thumb_7.jpg",
+                        "name": "WP 3"
+                    },
+                    {
+                        "author": "By Blah Blah Blah",
+                        "url": "http://www.mediafire.com/view/m15u817yxdnbqgt/wall_9.jpg",
+                        "thumbUrl": "http://www.mediafire.com/view/m15u817yxdnbqgt/wall_thumb_9.jpg",
+                        "name": "WP 4"
+                    }
+                ]
+            }
+        ]
+    }
+}
